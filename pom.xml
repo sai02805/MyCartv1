@@ -30,7 +30,11 @@
     <version>5.4.1</version>
 </dependency>
 <!-- https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml -->
+<<<<<<< HEAD
 <dependency>
+=======
+   <dependency>
+>>>>>>> branch 'main' of https://github.com/sai02805/MyCartv1.git
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
     <version>5.4.1</version>

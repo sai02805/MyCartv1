@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>OpenCartV121</name>
+=======
+	<name>MycartV1</name>
+>>>>>>> branch 'main' of https://github.com/sai02805/MyCartv1.git
 	<comment></comment>
 	<projects>
 	</projects>

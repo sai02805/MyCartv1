@@ -3,6 +3,7 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
+<<<<<<< HEAD
       <class name="testCases.TC001_AccountRegistrationTest">
         <methods>
           <include name="verify_account_registration"/>
@@ -10,6 +11,15 @@
           <include name="tearDown"/>
         </methods>
       </class> <!-- testCases.TC001_AccountRegistrationTest -->
+=======
+      <class name="testCases.TC_03_LoginDDT">
+        <methods>
+          <include name="verify_loginDDT"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- testCases.TC_03_LoginDDT -->
+>>>>>>> branch 'main' of https://github.com/sai02805/MyCartv1.git
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
